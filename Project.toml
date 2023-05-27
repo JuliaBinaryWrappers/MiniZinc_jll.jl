@@ -1,9 +1,10 @@
 name = "MiniZinc_jll"
 uuid = "3677d96b-3d39-5184-a844-8e8b2839af35"
-version = "2.7.4+0"
+version = "2.7.4+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+HiGHS_jll = "8fd58aa0-07eb-5a78-9b36-339c94fd15ea"
 CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
@@ -11,3 +12,4 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.6"
+HiGHS_jll = "1.5.1"

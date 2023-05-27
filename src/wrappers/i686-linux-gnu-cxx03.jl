@@ -2,10 +2,11 @@
 export minizinc
 
 using CompilerSupportLibraries_jll
+using HiGHS_jll
 JLLWrappers.@generate_wrapper_header("MiniZinc")
 JLLWrappers.@declare_executable_product(minizinc)
 function __init__()
-    JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll)
+    JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, HiGHS_jll)
     JLLWrappers.@init_executable_product(
         minizinc,
         "bin/minizinc",

@@ -1,252 +1,252 @@
 [[MiniZinc]]
 arch = "aarch64"
-git-tree-sha1 = "d611f98b04e1c3aa8e65c08a69f1568fb5e39921"
+git-tree-sha1 = "5f2c7fa5a60be5608c982c8808d4c00f951d84ab"
 os = "macos"
 
     [[MiniZinc.download]]
-    sha256 = "1d5d2d7828222ecefd03383b970183d9b58eb552a0068d33d90fc0f6353e0fd0"
-    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+0/MiniZinc.v2.7.4.aarch64-apple-darwin.tar.gz"
+    sha256 = "1be488c6c86a6ad1e9a5e696a7b72a58dc7fc13ae58c78254f1414585f39aad6"
+    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+1/MiniZinc.v2.7.4.aarch64-apple-darwin.tar.gz"
 [[MiniZinc]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1e83aad4c6607b92158294c7c53900ca2c2e6298"
+git-tree-sha1 = "1d4c7e7012de8556684ae4ce8eb906e710713fe5"
 libc = "glibc"
 os = "linux"
 
     [[MiniZinc.download]]
-    sha256 = "a9f4495f2173cd2261cf35d775f9f303c89a9cd2221ffbbd74b8b0a189e63ecc"
-    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+0/MiniZinc.v2.7.4.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "2ebbf0cdc4ea04baf048388bc3b1c8aa4d51dff6fdded906263a9dbf6b68a953"
+    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+1/MiniZinc.v2.7.4.aarch64-linux-gnu-cxx03.tar.gz"
 [[MiniZinc]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cb98cf0c447a8c6e20bfe4a8a0427cad559a0c6e"
+git-tree-sha1 = "f012c0cfc27885b2a27199b2702b1bb2c1fc996d"
 libc = "glibc"
 os = "linux"
 
     [[MiniZinc.download]]
-    sha256 = "e2a358e83b4a9ed63141d7d875b1cbd16f964f76aafe90fc0cf9c30ac6afb2d0"
-    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+0/MiniZinc.v2.7.4.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "8c026ae5dbc347e6c6c867bdef90a77838f8e26789ae35c7bcb5a526ae48a953"
+    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+1/MiniZinc.v2.7.4.aarch64-linux-gnu-cxx11.tar.gz"
 [[MiniZinc]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d80d1f3c40f16014cf26317e79d4047f996db3dc"
+git-tree-sha1 = "c8a15d8c6397c4e7c062d45b910cd1221670a856"
 libc = "musl"
 os = "linux"
 
     [[MiniZinc.download]]
-    sha256 = "7555b9484e136a0305e29c9f868b4bc4ae7f139d699b6efe44a257bd93b39dd3"
-    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+0/MiniZinc.v2.7.4.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "24cb355d53baabfe68da881512220c3229068321fefe347a346f75bcc076cc1d"
+    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+1/MiniZinc.v2.7.4.aarch64-linux-musl-cxx03.tar.gz"
 [[MiniZinc]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5b22d9e1732c3c3896b1324253ccacbf7eb1ce66"
+git-tree-sha1 = "6ff6bad9ae127917f274fb6f9fced6cd58e190fa"
 libc = "musl"
 os = "linux"
 
     [[MiniZinc.download]]
-    sha256 = "f21430d979d9a9a62f7c5012af0f54039a897e68f1905787931b262c95d25dc8"
-    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+0/MiniZinc.v2.7.4.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "b1e054f4c54a57207428e95c376aa2c69dba2f726ad9d0c16cae1489083843ed"
+    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+1/MiniZinc.v2.7.4.aarch64-linux-musl-cxx11.tar.gz"
 [[MiniZinc]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1af58d230cf88d6b30b4683fb0870669b9c89179"
+git-tree-sha1 = "2e549dcfbb9b31ef2b2046cfbeb135172d13b5fb"
 libc = "glibc"
 os = "linux"
 
     [[MiniZinc.download]]
-    sha256 = "1533c0f78df4c8df8f4c9199855d280e363499e3a93ae6d9214484cb7e286dc3"
-    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+0/MiniZinc.v2.7.4.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "f514158456bba5c69fb3499e618693267192afb596642de9da2adfe18f64a164"
+    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+1/MiniZinc.v2.7.4.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[MiniZinc]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2a583d2983a837e59e599548492178b278abd028"
+git-tree-sha1 = "b189b363a57ac1420081436fb5691fba501998fe"
 libc = "glibc"
 os = "linux"
 
     [[MiniZinc.download]]
-    sha256 = "3d0e06340344add09d4b5f9934ede5e205a0c63c2f7b828dd361068c1f8fb320"
-    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+0/MiniZinc.v2.7.4.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "33a64e5afcf7587d91e0687c6b4ead5993e052e528b59e83621a2ab6c5e64d58"
+    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+1/MiniZinc.v2.7.4.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[MiniZinc]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0cad9c16d0bc02d3db5df05893444e3e7770d463"
+git-tree-sha1 = "80db43d2bbee8ca89503a60283e5aab89db478c7"
 libc = "musl"
 os = "linux"
 
     [[MiniZinc.download]]
-    sha256 = "360f53ff292b744c2f44514ac49b61ea691e3c7a3a925382bb2f668a70aa792d"
-    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+0/MiniZinc.v2.7.4.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "e411d1391b957327073f0ce1aa53eda0fceea9bb6eafe90db15fbd765af518dc"
+    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+1/MiniZinc.v2.7.4.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[MiniZinc]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cbeb668f8dc75868717c44138f91b46725e709d5"
+git-tree-sha1 = "e5db2a3bcf322b540daf58055f56e82723777c78"
 libc = "musl"
 os = "linux"
 
     [[MiniZinc.download]]
-    sha256 = "cc13bf5f67181d6f4034e141a1de569062e63996639930981b6f609c166bdcbf"
-    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+0/MiniZinc.v2.7.4.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "5274a39add880a5ecf3dd70e2c8c2a152c98fd4cbe0be95368a87710d041f9cd"
+    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+1/MiniZinc.v2.7.4.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[MiniZinc]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d8cb889458e2e7228b519c95f88319373155356a"
+git-tree-sha1 = "76c5b839ca03c970de8bc5bee98d434306e4d7fa"
 libc = "glibc"
 os = "linux"
 
     [[MiniZinc.download]]
-    sha256 = "f376a34d963490f54c2f87f5e5cf0307dcce805f499f0883680d146c2748cfce"
-    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+0/MiniZinc.v2.7.4.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "0e441a8adda90ecb05c5d0727978ced5b1eddcf2886d58ead9c5731fb1659435"
+    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+1/MiniZinc.v2.7.4.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[MiniZinc]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "23f10af731f4b58cf5d3f9dd6465894bffbedbda"
+git-tree-sha1 = "37893dc0c88c6896d2d764fe7bf67c4b508fa9e4"
 libc = "glibc"
 os = "linux"
 
     [[MiniZinc.download]]
-    sha256 = "8c2ebf6e5a5a90d24d4ab561492de6033be97d09a2dbe03c875ce6b9ff28468a"
-    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+0/MiniZinc.v2.7.4.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "77b25ee309ab6301756c2c43831d9b8baaf95a5b58cc656fe4a3e0bec7fb9d71"
+    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+1/MiniZinc.v2.7.4.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[MiniZinc]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6dfebb389e5ccbe320b0ca9897f51613f6af0dc0"
+git-tree-sha1 = "0092a098ec8c6f35c3163c4dc02569bb3c5074b5"
 libc = "musl"
 os = "linux"
 
     [[MiniZinc.download]]
-    sha256 = "c9c29c33bf8ad7c5cc7221e39bf116fd3098efabd357b0a12387a86b1d485b3f"
-    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+0/MiniZinc.v2.7.4.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "9387f48ad1ccb399bffd1650ff49d17013d1208cc0c04581a81a8266614b0f82"
+    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+1/MiniZinc.v2.7.4.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[MiniZinc]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2132fba63e2f4f376c342c417f1f562948936ef9"
+git-tree-sha1 = "f19d8c7ef349667e3519e793619c196e9147957e"
 libc = "musl"
 os = "linux"
 
     [[MiniZinc.download]]
-    sha256 = "9cc356091204114b19e600f2faeab704f26fd061ff870eaf314cc061fadb8527"
-    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+0/MiniZinc.v2.7.4.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "eb48e51bcf0608cd27ae33ef66d6d9d4753e0e47c33a69235418f235e02a4c8e"
+    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+1/MiniZinc.v2.7.4.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[MiniZinc]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "87b51fbf6be2d45860fe5148b0ffc32cc92d2cd6"
+git-tree-sha1 = "c6c964d6282f2c8c39d90bb26bf5177550259820"
 libc = "glibc"
 os = "linux"
 
     [[MiniZinc.download]]
-    sha256 = "127aaf8f875b4997b3404b8f0e96234d40b4e4860479ae10ed8b700c0e130db3"
-    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+0/MiniZinc.v2.7.4.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "1ba595d416c3d7c7fd2a021607fbacf84b86cee0725da3684dc8ca573d1f4ec5"
+    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+1/MiniZinc.v2.7.4.i686-linux-gnu-cxx03.tar.gz"
 [[MiniZinc]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a69d417b3487ce9a7ff65b2008fba8029f283f65"
+git-tree-sha1 = "c3afd052da0d6b8fe83afb57d86f527fbd4076ed"
 libc = "glibc"
 os = "linux"
 
     [[MiniZinc.download]]
-    sha256 = "03336b187ab16a52474578b830bd3ade43dc5a44ce7c589309bf663c0176098e"
-    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+0/MiniZinc.v2.7.4.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "9bbb25369565ba6f75020e4c8b877161c324aded396cc691a677271677f29d6e"
+    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+1/MiniZinc.v2.7.4.i686-linux-gnu-cxx11.tar.gz"
 [[MiniZinc]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "59f24e180c7d6fe8aa3cf2aacc948b7e217bf701"
+git-tree-sha1 = "734176aa3c5f2eb2461af266cce3107ffb614350"
 libc = "musl"
 os = "linux"
 
     [[MiniZinc.download]]
-    sha256 = "c126c238619cb02808ca215041b69e8a957f3f970f1aa7b9492d8939921a8cbb"
-    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+0/MiniZinc.v2.7.4.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "4bf2d1ec73bb75d05dcf2065c4ec40d4758166d71638ebfff7c9f73328477aff"
+    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+1/MiniZinc.v2.7.4.i686-linux-musl-cxx03.tar.gz"
 [[MiniZinc]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bf356a28c8d83946a6f1e14b1073693ed302edc4"
+git-tree-sha1 = "bad99f9e89b897dde967e38aab92afe29e8b9510"
 libc = "musl"
 os = "linux"
 
     [[MiniZinc.download]]
-    sha256 = "063c60f17e23b90db7bfeae1c66dd000c76ce33dcfa134883aea2080c336c42e"
-    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+0/MiniZinc.v2.7.4.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "030be003a2de066d0785cfc73945a071ff85dcb8b5a7ea1b5863e5afac145d3d"
+    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+1/MiniZinc.v2.7.4.i686-linux-musl-cxx11.tar.gz"
 [[MiniZinc]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7903b19bb5d8236e60f629f50bb0fb479e64aae2"
+git-tree-sha1 = "3552e16b4acbb8005c41ec2dcd44ae4e4abf6635"
 libc = "glibc"
 os = "linux"
 
     [[MiniZinc.download]]
-    sha256 = "9e5ed9dbc7e9b1e01990007c2a839bde38f2cdbd69d0801ddc23ab0d6f6a8f8c"
-    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+0/MiniZinc.v2.7.4.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "6b6449aa12a17605f1194bd1840546faf125875631967dce421acade5f88b089"
+    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+1/MiniZinc.v2.7.4.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[MiniZinc]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "79fd428f7e4dcd6d9043bdcef458ff086284f38a"
+git-tree-sha1 = "49627dda7f82ee6ff30e18d90a3be6eb0506007e"
 libc = "glibc"
 os = "linux"
 
     [[MiniZinc.download]]
-    sha256 = "f60b5389159deb618df92a75b06432e0bda2e44ef1b7f7b5d457c3ce9d17e4d4"
-    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+0/MiniZinc.v2.7.4.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "527af0dc5fe4d7a41735a76abec2b1381ab71e2ad69d3ae2fdd926fd011d7d60"
+    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+1/MiniZinc.v2.7.4.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[MiniZinc]]
 arch = "x86_64"
-git-tree-sha1 = "a00394539282b9351601cc0862acb8eadb6bd4ae"
+git-tree-sha1 = "3c25eb8fd6614eee21cf35131f874ddb2f299a1f"
 os = "macos"
 
     [[MiniZinc.download]]
-    sha256 = "2cbf36b8a08f2df752ca414ed356da686f502d2e74cf40ce955745f80eb7ee88"
-    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+0/MiniZinc.v2.7.4.x86_64-apple-darwin.tar.gz"
+    sha256 = "98d0a3dde72b31c37a9cda9969e97227942ef4390ffe8898afd5fe92c61f0511"
+    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+1/MiniZinc.v2.7.4.x86_64-apple-darwin.tar.gz"
 [[MiniZinc]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "061a3942adf2adca81916409cfe90caefa21bb8a"
+git-tree-sha1 = "8429fdc425f4e95e3223c60413ec3478e41c55df"
 libc = "glibc"
 os = "linux"
 
     [[MiniZinc.download]]
-    sha256 = "4dff2113491703d7f24cf45c055cabc04ebc27611627225f84e42ebb39e7c482"
-    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+0/MiniZinc.v2.7.4.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "5494104a009959d493e217a57a9753f143da0c33994a7831fee8e67fb238a005"
+    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+1/MiniZinc.v2.7.4.x86_64-linux-gnu-cxx03.tar.gz"
 [[MiniZinc]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "05192b598548a116e8e853a763450134a235b602"
+git-tree-sha1 = "263a4a068136b57c324263a689f56c41e03327eb"
 libc = "glibc"
 os = "linux"
 
     [[MiniZinc.download]]
-    sha256 = "7cdbf819a2a9a5b3a65bd12bbded87957a4c29f1eb7d40bea79e45d572b2963b"
-    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+0/MiniZinc.v2.7.4.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "34b3185c9554a8cb4dac6bd29a22c817c15508eacf3e4fbd4ca12e699dd12b13"
+    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+1/MiniZinc.v2.7.4.x86_64-linux-gnu-cxx11.tar.gz"
 [[MiniZinc]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "210b92f0a1749f510bbbe936eda122e9604fc25d"
+git-tree-sha1 = "14dce1fb3821743f0111d0b5abb690f8a9835be1"
 libc = "musl"
 os = "linux"
 
     [[MiniZinc.download]]
-    sha256 = "fe03ed99e524db56140cb118d9f1a77b2b45337dc35390423d816e66fe76ed0f"
-    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+0/MiniZinc.v2.7.4.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "b1ab7c3fe1578e5de61efda07750b86e56532d3eafe9c321e78bd36d05415f95"
+    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+1/MiniZinc.v2.7.4.x86_64-linux-musl-cxx03.tar.gz"
 [[MiniZinc]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dc24bcb063bb2c8587578beacfeda842d89cdf91"
+git-tree-sha1 = "92a7c8ca15ae0dd59a4fd1e66df4f5ceb6c54a91"
 libc = "musl"
 os = "linux"
 
     [[MiniZinc.download]]
-    sha256 = "dc019c2ba057bb98ac68d153e34def891293bacc418718bb4b00d10a08815a85"
-    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+0/MiniZinc.v2.7.4.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "b6a02688a88e8b28f6e5dc19cca1cc2c2ce642da51b9ebd825d6460ebc1ccae2"
+    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+1/MiniZinc.v2.7.4.x86_64-linux-musl-cxx11.tar.gz"
 [[MiniZinc]]
 arch = "x86_64"
-git-tree-sha1 = "67199e335a104e476384478df00104aa80c21ad1"
+git-tree-sha1 = "2239cb0628431a4c3b0d4b68e2b22736e2c08945"
 os = "freebsd"
 
     [[MiniZinc.download]]
-    sha256 = "6bae9c5fe11bc224680e9862671bbfd01d2d52b4070453e47f4b8b12d93ee78a"
-    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+0/MiniZinc.v2.7.4.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "db74a9ae5cdb1826a17d99d3901e7fcd5b70c238c92c020cf29ae86faa0b0bd7"
+    url = "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl/releases/download/MiniZinc-v2.7.4+1/MiniZinc.v2.7.4.x86_64-unknown-freebsd.tar.gz"
