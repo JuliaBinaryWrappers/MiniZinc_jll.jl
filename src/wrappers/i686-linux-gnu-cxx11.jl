@@ -4,19 +4,19 @@ export libmzn, minizinc
 using CompilerSupportLibraries_jll
 using HiGHS_jll
 JLLWrappers.@generate_wrapper_header("MiniZinc")
-JLLWrappers.@declare_library_product(libmzn, "libmzn.so")
 JLLWrappers.@declare_executable_product(minizinc)
+JLLWrappers.@declare_library_product(libmzn, "libmzn.so")
 function __init__()
     JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, HiGHS_jll)
+    JLLWrappers.@init_executable_product(
+        minizinc,
+        "bin/minizinc",
+    )
+
     JLLWrappers.@init_library_product(
         libmzn,
         "lib/libmzn.so",
         RTLD_LAZY | RTLD_DEEPBIND,
-    )
-
-    JLLWrappers.@init_executable_product(
-        minizinc,
-        "bin/minizinc",
     )
 
     JLLWrappers.@generate_init_footer()
